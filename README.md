@@ -6,5 +6,4 @@
 <p>A lightweight Anti-AdBlock plugin for your WordPress site.<br>
 Generate your BlockAdBlock script from <a href="https://blockadblock.com/">BlockAdBlock's website</a></p>
 
-<p>PS: In case you are feeling extra generous today, here's my Ethereum Wallet:</p>
-0x1164beA70DE49b8f7fB5E9541697d3a9E4492750
+<p>💸 In case you are feeling extra generous today, here's my Ethereum Wallet: 0x1164beA70DE49b8f7fB5E9541697d3a9E4492750 😉</p> 
